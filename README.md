@@ -1,1 +1,1 @@
-# FridaypProjects
+# FridayProjects
